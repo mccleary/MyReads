@@ -6,8 +6,8 @@ MyReads is a react application that lets a user keep track of the books they hav
 ## Installation and Deployment
 
 Before getting started , you must have Node Package Manager or Yarn installed. Download all files to your local machine.
-* git clone https://github.com/mccleary/MyReads.git
-* cd reactnd-project-myreads
+* git clone `https://github.com/mccleary/MyReads.git`
+* cd `reactnd-project-myreads`
 * after this is completed, follow additional instructions below
 
 To get your application running:
